@@ -7,6 +7,6 @@ Modifications to the original [SD-Mask RCNN](https://github.com/BerkeleyAutomati
     Numpy 1.23.5
     autolab_core 1.1.1
 
-Updates in Mask RCNN code itself included.
+Updates in Mask RCNN code itself included. Most of changes directly in Mask RCNN models.py file. 
 
 Benchmarking.py should run properly according to instructions in original paper.
